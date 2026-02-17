@@ -1,0 +1,7 @@
+{
+  "name": "Le-ARC AI",
+  "description": "Le-ARC AI: A professional AI voice architect for software engineers, automation builders, and lead management. Supports English, Hindi, and Telugu.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
