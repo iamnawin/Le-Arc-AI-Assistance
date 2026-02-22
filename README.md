@@ -1,3 +1,8 @@
+<img width="1302" height="718" alt="image" src="https://github.com/user-attachments/assets/a8500c53-7a6b-435f-874b-37117b35f9e8" />
+
+
+
+
 # Le-ARC AI — Voice Assistant
 
 Le-ARC is a sophisticated, high-end AI Solution Architect and Executive Assistant designed to help software engineers, automation builders, and SaaS developers design scalable systems through real-time voice interaction.
